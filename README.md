@@ -42,6 +42,7 @@
 - Pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan Email. Jalankan perintah berikut :
 
 > $ git config --global user.name "username"
+
 > $ git config --global user.email "email"
 
 ![Gambar 7](screenshot/Screenshot51.png)
@@ -64,3 +65,36 @@
 
 ![Gambar 11](screenshot/Screenshot65.png)
 
+- Kemudian copy link HTTPS Github kalian
+
+> $ git clone 'link Github'
+
+- Tekan Enter pada keyboard
+
+![Gambar 12](screenshot/Screenshot70.png)
+
+- Kemudian muncul file README.md di file kalian
+
+- Klik kanan pada mouse, lalu pilih open with pilih "Visual Studio Code"
+
+- Jika kalian belum instal "Visual Studio Code" kalian bisa download [VCS](https://code.visualstudio.com/)
+
+- Tutorial cara instal [Video instalasi VCS](https://www.youtube.com/watch?v=OSmaWPSgvTQ)
+
+![Gambar 13](screenshot/Screenshot71.png)
+
+- Setelah terbuka Visual Code Studio, pastikan kalian koding di file README.md
+
+- Edit file README.md, lalu jangan lupa di save (ctrl+s)
+
+- Setelah itu buka Git Bash yang sebelumnya
+
+> git add README.md
+> git commit -m "Descrption"
+> git push -u origin master
+
+- Selesai terupload dan di push Ke GitHub
+
+![Gambar 14](screenshot/Screenshot82.png)
+
+- SELESAI
