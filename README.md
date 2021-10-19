@@ -1,6 +1,7 @@
 # Latihan-VCS
 ## Tutorial Penggunaan Git
 
+<p>align test center</p>
 ![Gif 1](screenshot/gif1.gif)
 
 ### Menginstall Git
