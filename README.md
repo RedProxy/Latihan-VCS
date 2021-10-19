@@ -16,7 +16,6 @@
 
 -Kemudian klik Create repository
 
-![Gambar 2](screenshot/Ss2.jpg)
 
 -kemudian isi Repository name
 -deskripsi (optional) boleh di isi boleh tidak
