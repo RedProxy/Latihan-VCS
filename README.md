@@ -87,11 +87,11 @@
 
 - Edit file README.md, lalu jangan lupa di save (ctrl+s)
 
-- Setelah itu buka Git Bash yang sebelumnya
+- Setelah itu buka Git Bash yang sebelumnya. Kemudian lakukan perintah :
 
 > git add README.md
 > git commit -m "Descrption"
-> git push -u origin master
+> git push -u origin main
 
 - Selesai terupload dan di push Ke GitHub
 
