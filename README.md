@@ -16,7 +16,7 @@
 
 -Kemudian klik Create repository
 
-![Gambar 2](screenshot/InkedSs2_LI.png)
+![Gambar 1](screenshot/InkedSs2_LI.png)
 
 -kemudian isi Repository name
 -deskripsi (optional) boleh di isi boleh tidak
@@ -25,6 +25,6 @@
 
 -kemudian klik Create repository seperti gambar dibawah
 
-![Gambar 3](screenshot/Ss3.png)
+![Gambar 1](screenshot/Ss3.png)
 
-![Gambar 4](screenshot/Ss4.png)
+![Gambar 1](screenshot/Ss4.png)
