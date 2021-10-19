@@ -90,7 +90,9 @@
 - Setelah itu buka Git Bash yang sebelumnya. Kemudian lakukan perintah :
 
 > git add README.md
+
 > git commit -m "Descrption"
+
 > git push -u origin main
 
 - Selesai terupload dan di push Ke GitHub
