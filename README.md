@@ -1,7 +1,7 @@
 # Latihan-VCS
 ## Tutorial Penggunaan Git
 
-![Gif 1](screenshot/gif1)
+![Gif 1](screenshot/gif1.gif)
 
 ### Menginstall Git
 - Buka [Github](https://Github.com)
