@@ -2,7 +2,7 @@
 ## Tutorial Penggunaan Git
 
 ### Menginstall Git
-1.Buka Github[https://git-scm.com]
+1.Buka [https://git-scm.com](Github)
 
 2.Jika Belum mendaftar klik Register/Sign up
 
