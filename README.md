@@ -39,3 +39,28 @@
 
 ![Gambar 7](screenshot/Ss7.png)
 
+- Pada saat pertama kali menggunakan Git, perlu dilakukan konfigurasi Username dan Email. Jalankan perintah berikut :
+
+> $ git config --global user.name "username"
+> $ git config --global user.email "email"
+
+![Gambar 7](screenshot/Screenshot51.png)
+
+- Kemudian Masukan Perintah :
+
+> $ pwd
+
+![Gambar 8](screenshot/Screenshot56.png)
+
+> $ cd /d/VCS/
+
+![Gambar 9](screenshot/Screenshot57.png)
+
+> $ ls
+
+![Gambar 10](screenshot/Screenshot58.png)
+
+> $ ls -l
+
+![Gambar 11](screenshot/Screenshot65.png)
+
